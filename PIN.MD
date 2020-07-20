@@ -1,0 +1,9 @@
+BTN 16 active_low
+SDA D4
+SCL D5
+MOTION ADC active_high
+SMOKE D14 
+FLAME D12
+BUZZER D0 active?low
+TEMP d13
+EXT D2 
